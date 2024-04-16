@@ -34,7 +34,7 @@ Explore a range of dashboards for Odoo ERP, including CRM, Inventory, Sales, Acc
     "website":"https://techneith.com/products/odoo-power-bi-direct-connector/",
     # any module necessary for this one to work correctly
  
-    'images': ['static/description/odoo-bi.png'],
+    'images': ['static/description/banner.png'],
     "license":"LGPL-3",
 
     # always loaded
