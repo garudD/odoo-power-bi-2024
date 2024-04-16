@@ -31,6 +31,7 @@ Explore a range of dashboards for Odoo ERP, including CRM, Inventory, Sales, Acc
     'version': '1.1',
     'price': 0,
     'currency': 'USD',
+    "website":"https://techneith.com/products/odoo-power-bi-direct-connector/",
     # any module necessary for this one to work correctly
  
     'images': ['static/description/odoo-bi.png'],
