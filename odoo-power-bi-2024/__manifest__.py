@@ -4,7 +4,7 @@
 
     'summary': """
        	  
-Introducing the Direct Odoo Power BI Connector, the exclusive module that seamlessly integrates your Odoo platform with Power BI, offering enhanced features. Easily create Power BI Dashboards and Reports with automatic scheduled data refresh. This connector ensures a swift link between your Odoo data and the powerful Business Intelligence tool, Power BI Desktop.
+Introducing the Direct Odoo Power BI Connector, the exclusive module that seamlessly integrates your Odoo platform with Power BI, powerbi offering enhanced features. Easily create Power BI Dashboards and Reports with automatic scheduled data refresh. This connector ensures a swift link between your Odoo data and the powerful Business Intelligence tool, Power BI Desktop.
 
 Experience advanced functionalities, such as publishing dashboards to Microsoft Teams or making them publicly accessible. Benefit from automatic scheduled refresh/reload, gateway support, and prebuilt tables relationship. This high-speed connector facilitates the transfer of data from Odoo to Power BI, providing an ER diagram-like feature to visualize relationships and columns in your tables.
 
